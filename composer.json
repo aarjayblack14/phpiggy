@@ -1,0 +1,12 @@
+{
+    "name": "aarjay/phpiggy",
+    "description": "A tracking application",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
